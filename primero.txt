@@ -1,8 +1,10 @@
 Hola.
 
-Soy Jaime Antonio.
+Soy el estudiente Jaime Antonio.
 
 
 Estamos probando git + github.com
 
 Bye.
+
+Ya el mensaje no falta 
